@@ -1,0 +1,84 @@
+/* 
+   =============================================================================================
+   Kim S. Ryom Confidential
+   OCO Source Materials
+   alexandra_horizontal_menu.css
+   
+   Project: Alexandra Ryom. Ryom Design Web Portal
+   
+   (C)All Copyright to Kim S. Ryom Marienbergvej 11B 2.th, 4760 Vordingborg Denmark 1982-2014.
+   
+   e-Mail: kim.ryom@gmail.com
+   Phone:  +45 5250 1079
+  
+   The source code for this program is not published or otherwise divested of
+   its trade secrets, irrespective of what has been deposited with the U.S.
+   Copyright office.
+   =============================================================================================
+   History:
+   
+    Version     Date            User        Comment
+    -------     ------------    -------     -----------------------------------------------
+    1.0.0       26/05/2014      Kim S.Ryom  Initial version
+    
+   =============================================================================================
+ */
+
+/* ==== Horisontal Main Menu Schemes =========================================================== */
+ul#navigationH {
+    margin-left: 40px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    
+    list-style-type: none;
+}
+
+ul#navigationH li {
+    display: inline;
+}
+
+ul#navigationH a {
+    /* Font stuff */
+    font-family: "Lucida Grande";
+    font-size: 95%;
+    font-style: italic;
+    font-weight: normal;
+    
+    /* Text spacing, alignment, decoration */
+    letter-spacing: 0px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    float: left;
+    
+    /* padding: Top/Bottom Left/Right */
+    padding: .2em 0em;
+    
+    /* Text color and background color */
+    color: rgb(51,102,153);
+    
+    /* Border alignment, thickness, type and color */
+    /* border-right: 1px solid rgb(100,100,100); */
+    
+    /* Opacity for text and background */
+    /* filter: alpha(opacity=60); */
+    opacity: 1;
+    
+    width: 95px;
+}
+
+ul#navigationH a:hover {
+    
+    /* Text color and background color */
+    /* color: rgb(51,102,153); */
+    color: rgb(180,143,106);
+    background: rgb(210,210,210);
+    /* background: rgb(210,210,210);  180,143,106 */
+}
+

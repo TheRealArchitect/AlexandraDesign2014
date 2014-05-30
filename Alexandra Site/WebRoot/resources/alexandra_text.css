@@ -1,0 +1,312 @@
+/* 
+   =============================================================================================
+   Kim S. Ryom Confidential
+   OCO Source Materials
+   alexandra_text.css
+   
+   Project: Alexandra Ryom. Ryom Design Web Portal
+   
+   (C)All Copyright to Kim S. Ryom Marienbergvej 11B 2.th, 4760 Vordingborg Denmark 1982-2014.
+   
+   e-Mail: kim.ryom@gmail.com
+   Phone:  +45 5250 1079
+  
+   The source code for this program is not published or otherwise divested of
+   its trade secrets, irrespective of what has been deposited with the U.S.
+   Copyright office.
+   =============================================================================================
+   History:
+   
+    Version     Date            User        Comment
+    -------     ------------    -------     -----------------------------------------------
+    1.0.0       24/05/2014      Kim S.Ryom  Initial version
+    
+   =============================================================================================
+ */
+/* ==== Settings for Standard Text Schemes ===================================================== */
+p.normal_txt {
+    /* Font stuff */
+    /* font-family: "Comic Sans MS", cursive, sans-serif; */
+    font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+    font-size: 82%;
+    font-style: normal;
+    font-weight: normal;
+    
+    /* Text spacing, alignment, decoration */
+    line-height: 105%;
+    letter-spacing: 0px;
+    text-align: left;
+    text-decoration: none;
+    
+    /* Text color */
+    color: rgb(131,89,48);
+
+    /* Margin Setup */
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 5px;
+    margin-bottom: 12px;
+    
+    /* Border alignment, thickness, type and color */
+    border-top-style: solid;
+    border-top-width: 0px;
+    border-top-color: rgb(100,100,100);
+
+    border-right-style: solid;
+    border-right-width: 0px;
+    border-right-color: rgb(100,100,100);
+    
+    border-left-style: solid;
+    border-left-width: 0px;
+    border-left-color: rgb(100,100,100);
+    
+    border-bottom-style: solid;
+    border-bottom-width: 0px;
+    border-bottom-color: rgb(100,100,100);
+    
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    
+    
+}
+
+h1.h1_txt {
+    /* Font stuff */
+    /* font-family: "Comic Sans MS", cursive, sans-serif; */
+    font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+    font-size: 125%;
+    font-style: normal;
+    font-weight: bolder;
+    
+    /* Text spacing, alignment, decoration */
+    letter-spacing: 1px;
+    
+    text-align: left;
+    text-decoration: none;
+    
+    /* Text color */
+    color: rgb(180,143,106);
+
+    /* Margin Setup */    
+    margin-top: 35px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    
+    /* Border alignment, thickness, type and color */
+    border-top-style: solid;
+    border-top-width: 5px;
+    border-top-color: rgb(180,143,106);
+
+    border-right-style: solid;
+    border-right-width: 0px;
+    border-right-color: rgb(100,100,100);
+    
+    border-left-style: solid;
+    border-left-width: 0px;
+    border-left-color: rgb(100,100,100);
+    
+    border-bottom-style: solid;
+    border-bottom-width: 0px;
+    border-bottom-color: rgb(100,100,100);
+
+    /* Padding alignment */
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+        
+}
+
+h2.h2_txt {
+    /* Font stuff */
+    /* font-family: "Comic Sans MS", cursive, sans-serif; */
+    font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+    font-size: 100%;
+    font-style: normal;
+    font-weight: bolder;
+    
+    /* Text spacing, alignment, decoration */
+    letter-spacing: 1px;
+    
+    text-align: left;
+    text-decoration: none;
+    
+    /* Text color */
+    color: rgb(180,143,106);
+
+    /* Margin Setup */    
+    margin-top: 35px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    
+    /* Border alignment, thickness, type and color */
+    border-top-style: solid;
+    border-top-width: 3px;
+    border-top-color: rgb(180,143,106);
+
+    border-right-style: solid;
+    border-right-width: 0px;
+    border-right-color: rgb(100,100,100);
+    
+    border-left-style: solid;
+    border-left-width: 0px;
+    border-left-color: rgb(100,100,100);
+    
+    border-bottom-style: solid;
+    border-bottom-width: 0px;
+    border-bottom-color: rgb(100,100,100);
+
+    /* Padding alignment */
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+        
+}
+
+h3.h3_txt {
+    /* Font stuff */
+    /* font-family: "Comic Sans MS", cursive, sans-serif; */
+    font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+    font-size: 95%;
+    font-style: normal;
+    font-weight: bold;
+    
+    /* Text spacing, alignment, decoration */
+    letter-spacing: 0px;
+    
+    text-align: left;
+    text-decoration: none;
+
+    /* Text color */
+    color: rgb(180,143,106);
+    
+    /* Margin Setup */    
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+
+    /* Border alignment, thickness, type and color */
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-top-color: rgb(180,143,106);
+
+    border-right-style: solid;
+    border-right-width: 0px;
+    border-right-color: rgb(100,100,100);
+    
+    border-left-style: solid;
+    border-left-width: 0px;
+    border-left-color: rgb(100,100,100);
+    
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: rgb(180,143,106);
+
+    /* Padding alignment */
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 1px;
+    
+}
+
+h4.h4_txt {
+    /* Font stuff */
+    /* font-family: "Comic Sans MS", cursive, sans-serif; */
+    font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+    font-size: 85%;
+    font-style: normal;
+    font-weight: bold;
+    
+    /* Text spacing, alignment, decoration */
+    letter-spacing: 0px;
+    
+    text-align: left;
+    text-decoration: none;
+
+    /* Text color */
+    color: rgb(180,143,106);
+    
+    /* Margin Setup */    
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+
+    /* Border alignment, thickness, type and color */
+    border-top-style: solid;
+    border-top-width: 0px;
+    border-top-color: rgb(180,143,106);
+
+    border-right-style: solid;
+    border-right-width: 0px;
+    border-right-color: rgb(100,100,100);
+    
+    border-left-style: solid;
+    border-left-width: 0px;
+    border-left-color: rgb(100,100,100);
+    
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: rgb(180,143,106);
+
+    /* Padding alignment */
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 1px;
+    
+}
+
+ul.ul_style1 {
+    /* Font stuff */
+    /* font-family: "Comic Sans MS", cursive, sans-serif; */
+    font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+    font-size: 85%;
+    font-style: italic;
+    font-weight: normal;
+    
+    /* Text spacing, alignment, decoration */
+    letter-spacing: 0px;
+    
+    text-align: left;
+    text-decoration: none;
+
+    /* Text color */
+    color: rgb(131,89,48);
+    
+    margin-top: 5px;
+    margin-left: 60px;
+    margin-right: 0px;
+    margin-bottom: 15px;
+    
+    /* Border alignment, thickness, type and color */
+    border-top-style: solid;
+    border-top-width: 0px;
+    border-top-color: rgb(100,100,100);
+
+    border-right-style: solid;
+    border-right-width: 0px;
+    border-right-color: rgb(100,100,100);
+    
+    border-left-style: solid;
+    border-left-width: 0px;
+    border-left-color: rgb(100,100,100);
+    
+    border-bottom-style: solid;
+    border-bottom-width: 0px;
+    border-bottom-color: rgb(100,100,100);
+
+    /* Padding alignment */
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+}
+

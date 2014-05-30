@@ -1,0 +1,51 @@
+/* 
+   =============================================================================================
+   Kim S. Ryom Confidential
+   OCO Source Materials
+   alexandra_header_footer.css
+   
+   Project: Alexandra Ryom. Ryom Design Web Portal
+   
+   (C)All Copyright to Kim S. Ryom Marienbergvej 11B 2.th, 4760 Vordingborg Denmark 1982-2014.
+   
+   e-Mail: kim.ryom@gmail.com
+   Phone:  +45 5250 1079
+  
+   The source code for this program is not published or otherwise divested of
+   its trade secrets, irrespective of what has been deposited with the U.S.
+   Copyright office.
+   =============================================================================================
+   History:
+   
+    Version     Date            User        Comment
+    -------     ------------    -------     -----------------------------------------------
+    1.0.0       26/05/2014      Kim S.Ryom  Initial version
+    
+   =============================================================================================
+ */
+
+/* ==== Standard Background Schemes ============================================================ */
+.main_body_background {
+    
+    padding-left: 50px;
+    padding-right: 0px;
+    padding-top: 40px;
+    padding-bottom: 0px;
+    
+    background-color: rgb(204,255,230);
+}
+
+
+/* ==== Standard Header & Footer Schemes ======================================================= */
+.main_logo {
+   background-image: url(../images/alexandra_design_header_1.png);
+}
+
+.main_header {
+   background-image: url(../images/alexandra_design_header_3.png);
+}
+
+.main_footer {
+   background-image: url(../images/koerelaere_003_900x70.jpg);
+}
+

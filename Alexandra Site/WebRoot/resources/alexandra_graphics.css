@@ -1,0 +1,49 @@
+/* 
+   =============================================================================================
+   Kim S. Ryom Confidential
+   OCO Source Materials
+   alexandra_graphics.css
+   
+   Project: Alexandra Ryom. Ryom Design Web Portal
+   
+   (C)All Copyright to Kim S. Ryom Marienbergvej 11B 2.th, 4760 Vordingborg Denmark 1982-2014.
+   
+   e-Mail: kim.ryom@gmail.com
+   Phone:  +45 5250 1079
+  
+   The source code for this program is not published or otherwise divested of
+   its trade secrets, irrespective of what has been deposited with the U.S.
+   Copyright office.
+   =============================================================================================
+   History:
+   
+    Version     Date            User        Comment
+    -------     ------------    -------     -----------------------------------------------
+    1.0.0       26/05/2014      Kim S.Ryom  Initial version
+    
+   =============================================================================================
+ */
+
+/* ==== Settings for Standard images alignment ================================================= */
+img.pic_left {
+    float: left;
+    text-align: right;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 10px;
+}
+
+img.pic_right {
+    float: right;
+    text-align: left;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 10px;
+    margin-right: 0px;
+}
+
+/* ==== Picture Schemes ======================================================================== */
+.some_picture {
+   background-image: url(../images/koerelaere_004_900x70.jpg);
+}
